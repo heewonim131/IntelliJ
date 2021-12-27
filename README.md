@@ -1,1 +1,1 @@
-# IntelliJ
+# intellij guide
