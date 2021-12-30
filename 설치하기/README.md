@@ -1,7 +1,6 @@
-# IntelliJ 설치하기
+# 🐾 IntelliJ 설치하기
 ## IntelliJ 란?
 JetBrains사에서 제작한 자바 통합 개발 환경으로, IDEA로도 불린다.
-
 ## 설치 방법
 ### 1) 다음 사이트에 접속하여 Download 클릭 (이미지를 클릭하면 바로 이동)
 <a href="https://www.jetbrains.com/idea/download/#section=windows"><img src="https://user-images.githubusercontent.com/92259017/147632826-ba0b2a89-f0df-4d2b-8e34-f9637f094429.png" style="width:70%;height:70%"></a>
@@ -23,3 +22,6 @@ Ultimate는 모든 기능을 제공, Community 에디션은 제한된 기능을 
 <br>Install 클릭<br><br>
 ![image](https://user-images.githubusercontent.com/92259017/147633446-936d3ce9-6d90-4ab6-b086-384fdbfacd06.png)
 <br>설치 완료 후 Finish 클릭 (Reboot now를 선택하면 컴퓨터가 재부팅되니 조심하자.)
+<br>
+## 출처
+* [IntelliJ 설치방법 by 갓대희](https://goddaehee.tistory.com/195)
