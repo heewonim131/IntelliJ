@@ -1,4 +1,4 @@
-# 🐾 IntelliJ 설치하기
+# ⚙ IntelliJ 설치하기
 ## IntelliJ 란?
 JetBrains사에서 제작한 자바 통합 개발 환경으로, IDEA로도 불린다.
 ## 설치 방법
