@@ -26,5 +26,9 @@
 |전체 검색|⇧ 2번|Shift 2번|
 |최근 파일 열기|⌘E|Ctrl+E|
 ## 2) 기본 Ⅱ
+|기능|Mac|Windows|
+|:---|:---:|:---:|
+|Live template (psvm, sout)|⌘J|Ctrl+J|
+|퀵 픽스|⌥Enter|Alt+Enter|
 
 ## 3) 응용
