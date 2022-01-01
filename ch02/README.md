@@ -30,5 +30,8 @@
 |:---|:---:|:---:|
 |Live template (psvm, sout)|⌘J|Ctrl+J|
 |퀵 픽스|⌥Enter|Alt+Enter|
+|코드 이슈별로 이동|F2, ⇧F2|F2, Shift+F2|
+|Import 최적화|^⌥O|Ctrl+Alt+O|
+|코드 생성|⌘N|Alt+Insert|
 
 ## 3) 응용
