@@ -9,9 +9,9 @@
 |에디터 창 이동|^Tab|Ctrl+Tab|
 |에디터에서 새 파일 생성|^⌥N|Ctrl+Alt+Insert|
 |프로젝트 창에서 새 파일 생성|⌘N|Alt+Insert|
-|커서 단어별 이동|⌥+←→|Ctrl+←→|
-|커서 라인 시작/끝 이동|Fn+←→|home/end|
-|커서 페이지 위/아래 이동|Fn+↑↓|PgUp/PgDn|
+|커서 - 단어별 이동|⌥+←→|Ctrl+←→|
+|커서 - 라인 시작/끝 이동|Fn+←→|home/end|
+|커서 - 페이지 위/아래 이동|Fn+↑↓|PgUp/PgDn|
 |선택 확장/축소|⌥+↑↓|Ctrl+W/Ctrl+Shift+W|
 |한 줄 주석|⌘/|Ctrl+/|
 |블록 주석|⌥⌘/|Ctrl+Shift+/|
@@ -33,5 +33,7 @@
 |코드 이슈별로 이동|F2, ⇧F2|F2, Shift+F2|
 |Import 최적화|^⌥O|Ctrl+Alt+O|
 |코드 생성|⌘N|Alt+Insert|
-
+|메소드 자동완성 - Override|^O|Ctrl+O|
+|메소드 자동완성 - Implement|^I|Ctrl+I|
+|터미널 창|⌥F12|Alt+F12|
 ## 3) 응용
