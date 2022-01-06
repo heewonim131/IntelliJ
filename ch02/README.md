@@ -38,18 +38,54 @@ IntelliJ 에서도 주요 단축키 목록을 확인할 수 있다.
 |메소드 자동완성 - Override|^O|Ctrl+O|
 |메소드 자동완성 - Implement|^I|Ctrl+I|
 |터미널 창|⌥F12|Alt+F12|
-|구문 완성(괄호, 세미콜론, ..)|⌘⇧Enter|Ctrl+Shift+Enter|
-|대체하기 - 파일 내 대체(Search & Replace)|⌘R|Ctrl+R|
+|구문 완성<br>(괄호, 세미콜론, ..)|⌘⇧Enter|Ctrl+Shift+Enter|
+|대체하기 - 파일 내 대체<br>(Search & Replace)|⌘R|Ctrl+R|
 |대체하기 - 경로 내 대체|⌘⇧R|Ctrl+Shift+R|
-|Run anything(최근 실행한 파일 또는 검색하여 실행 가능)|^ 2번|Ctrl 2번|
+|Run anything|^ 2번|Ctrl 2번|
 |실행 - 에디터 실행|^⇧R|Ctrl+Shift+F10|
 |실행|^R|Shift+F10|
-|종료(실행 중단)|⌘F2|Ctrl+F2|
+|종료 (실행 중단)|⌘F2|Ctrl+F2|
 |라인 수정 - 복사|⌘D|Ctrl+D|
 |라인 수정 - 삭제|⌘delete|Ctrl+Y|
 |파라미터 정보|⌘P|Ctrl+P|
-|Quick Definition(선언부 미리보기)|⌥space|Ctrl+Shift+I|
+|Quick Definition<br>(선언부 미리보기)|⌥space|Ctrl+Shift+I|
 |Quick Document|F1|Ctrl+Q|
-|Java Doc을 작성하자(사용, 분석에 용이)|||
 |기능(action) 찾기|⌘⇧A|Shift+Ctrl+A|
+### 💡 Tip
+#### Java Doc 을 작성하자.
+사용자 입장에선 편의성 증대, 개발자 입장에선 분석에 용이하다.
 ## 3) 응용
+### 테스트 코드
+|기능|Mac|Windows|
+|:---|:---:|:---:|
+|생성|⌥Enter|Alt+Enter|
+|이동|⌘⇧T|Ctrl+Shift+T|
+|선택된 테스트 실행|^⇧R|Ctrl+Shift+F10|
+|정지|⌘F2|Ctrl+F2|
+### 리팩토링
+|기능|Mac|Windows|
+|:---|:---:|:---:|
+|클래스 이동|F6|F6|
+|타입 변경|⌘⇧F6|Ctrl+Shift|F6|
+|시그니처 변경 (메서드 속성)|⌘F6|Ctrl+F6|
+|이름 변경|⇧F6|Shift|F6|
+|리팩토링 기능|^T|Ctrl+Alt+Shift+T|
+### 디버깅
+|기능|Mac|Windows|
+|:---|:---:|:---:|
+|브레이크 포인트 설정|⌘F8|Ctrl+F8|
+|브레이크 포인트 보기|⌘⇧F8|Ctrl+Shift+F8|
+|디버깅 모드 실행|^D|Shift+F9|
+|에디터 실행|^⇧D|없음|
+|step into (실행 라인 이동)|F7|F8|
+|step over (다음 라인 이동)|F7|F8|
+|Resume Program<br>(다음 브레이크 포인트로 이동)|⌘⌥R|F9|
+### Git
+|기능|Mac|Windows|
+|:---|:---:|:---:|
+|Git 기능|^V|Alt+`|
+### 커스텀 단축키 설정하기
+* Shift 2번 > keymap 검색
+* 단축키 목록 확인 가능
+* 단축키 설정하고 싶은 기능을 검색
+* 우클릭 > Add Keyboard Shortcut > 사용할 단축키 입력
