@@ -1,4 +1,6 @@
 # ⌨ IntelliJ 단축키 모음
+IntelliJ 에서도 주요 단축키 목록을 확인할 수 있다.
+* 상단 메뉴바 > Help > Keymap Reference
 ## 1) 기본 Ⅰ
 |기능|Mac|Windows|
 |:---|:---:|:---:|
@@ -36,4 +38,18 @@
 |메소드 자동완성 - Override|^O|Ctrl+O|
 |메소드 자동완성 - Implement|^I|Ctrl+I|
 |터미널 창|⌥F12|Alt+F12|
+|구문 완성(괄호, 세미콜론, ..)|⌘⇧Enter|Ctrl+Shift+Enter|
+|대체하기 - 파일 내 대체(Search & Replace)|⌘R|Ctrl+R|
+|대체하기 - 경로 내 대체|⌘⇧R|Ctrl+Shift+R|
+|Run anything(최근 실행한 파일 또는 검색하여 실행 가능)|^ 2번|Ctrl 2번|
+|실행 - 에디터 실행|^⇧R|Ctrl+Shift+F10|
+|실행|^R|Shift+F10|
+|종료(실행 중단)|⌘F2|Ctrl+F2|
+|라인 수정 - 복사|⌘D|Ctrl+D|
+|라인 수정 - 삭제|⌘delete|Ctrl+Y|
+|파라미터 정보|⌘P|Ctrl+P|
+|Quick Definition(선언부 미리보기)|⌥space|Ctrl+Shift+I|
+|Quick Document|F1|Ctrl+Q|
+|Java Doc을 작성하자(사용, 분석에 용이)|||
+|기능(action) 찾기|⌘⇧A|Shift+Ctrl+A|
 ## 3) 응용
