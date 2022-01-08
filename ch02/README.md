@@ -52,8 +52,10 @@ IntelliJ 에서도 주요 단축키 목록을 확인할 수 있다.
 |Quick Document|F1|Ctrl+Q|
 |기능(action) 찾기|⌘⇧A|Shift+Ctrl+A|
 ### 💡 Tip
-#### Java Doc 을 작성하자.
+```
+Java Doc 을 작성하자.
 사용자 입장에선 편의성 증대, 개발자 입장에선 분석에 용이하다.
+```
 ## 3) 응용
 ### 테스트 코드
 |기능|Mac|Windows|
