@@ -22,6 +22,6 @@
 
 https://www.w3.org/Protocols/rfc2616/rfc2616-sec9.html
 https://ko.wikipedia.org/wiki/HTTP_%EC%83%81%ED%83%9C_%EC%BD%94%EB%93%9C
-https://www.todobackend.com/
+https://www.todobackend.com
 https://www.todobackend.com/specs/index.html
 https://www.todobackend.com/client/index.html?http://todobackend-aiohttp.herokuapp.com
