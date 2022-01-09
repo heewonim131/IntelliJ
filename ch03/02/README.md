@@ -12,10 +12,10 @@ intellij 실행하여 New Project 생성<br>
 프로젝트명을 입력하고 Finish<br>
 <img src="https://user-images.githubusercontent.com/92259017/148679605-f918520c-041a-4faa-9245-d975c8a8c462.png" style="width: 60%; height: 60%"/>
 
-프로젝트 빌드가 완료되면 BUILD SUCCESSFUL in ns 라는 메시지가 뜬다.
+프로젝트 빌드가 완료되면 BUILD SUCCESSFUL in ns 라는 메시지가 뜬다.<br>
 
-build.gradle 빌드에 필요한 옵션들을 정의
-build.gradle 에 작성된 빌드 구성을 기반으로 빌드 기능을 수행
+build.gradle 빌드에 필요한 옵션들을 정의<br>
+build.gradle 에 작성된 빌드 구성을 기반으로 빌드 기능을 수행<br>
 
-우측 gradle 탭을 통해 작업 확인 가능
-gradle 탭이 안보인다면 View > Tool Windows > Gradle 클릭
+우측 gradle 탭을 통해 작업 확인 가능<br>
+gradle 탭이 안보인다면 View > Tool Windows > Gradle 클릭<br>
