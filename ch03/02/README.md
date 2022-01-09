@@ -19,3 +19,7 @@ build.gradle 에 작성된 빌드 구성을 기반으로 빌드 기능을 수행
 
 우측 gradle 탭을 통해 작업 확인 가능<br>
 gradle 탭이 안보인다면 View > Tool Windows > Gradle 클릭<br>
+
+
+IntelliJ Github 연동하기
+https://goddaehee.tistory.com/249
