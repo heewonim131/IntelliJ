@@ -6,4 +6,4 @@
 
 3. [To do 리스트 구현하기](https://github.com/heewonim131/intellij-guide/tree/main/ch03#-to-do-list-구현하기)
 
-4. 디버깅
+4. [디버깅](https://github.com/heewonim131/intellij-guide/tree/main/ch04#-디버깅)
