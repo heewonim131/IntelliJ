@@ -3,7 +3,6 @@
 service 패키지에 TodoService 클래스 파일을 생성한다.<br><br>
 ![image](https://user-images.githubusercontent.com/92259017/149085998-6ef73cc3-8048-42ac-b28d-e0a7cec07c9d.png)
 
-## TodoService
 다음의 6가지 기능을 구현하기 위해 서비스 코드에 메서드 시그니처들을 정의한다.
 1.	todo 리스트 목록에 아이템을 추가
 2.	todo 리스트 전체 목록을 조회
@@ -12,6 +11,7 @@ service 패키지에 TodoService 클래스 파일을 생성한다.<br><br>
 5.	todo 리스트 목록 중 특정 아이템을 삭제
 6.	todo 리스트 전체 목록을 삭제
 
+## TodoService
 ```
 package org.example.service;
 
