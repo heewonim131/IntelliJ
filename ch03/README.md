@@ -8,7 +8,7 @@
 
 3. [모델 구현](https://github.com/heewonim131/intellij-guide/tree/main/ch03/03#모델-구현)
 
-4. [repository 구현]((https://github.com/heewonim131/intellij-guide/tree/main/ch03/04#repository-구현)
+4. [repository 구현](https://github.com/heewonim131/intellij-guide/tree/main/ch03/04#repository-구현)
 
 5. [서비스 코드 구현](https://github.com/heewonim131/intellij-guide/tree/main/ch03/05#서비스-코드-구현)
 
