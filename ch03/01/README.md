@@ -23,6 +23,3 @@
 ### 참고
 - [HTTP Methods](https://www.w3.org/Protocols/rfc2616/rfc2616-sec9.html)
 - [HTTP 상태 코드](https://ko.wikipedia.org/wiki/HTTP_%EC%83%81%ED%83%9C_%EC%BD%94%EB%93%9C)
-- [Todo-Backend](https://www.todobackend.com)
-- [Todo-Backend run test](https://www.todobackend.com/specs/index.html)
-- [Todo-Backend client](https://www.todobackend.com/client/index.html?http://todobackend-aiohttp.herokuapp.com)
