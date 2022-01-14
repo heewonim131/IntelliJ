@@ -28,3 +28,6 @@ Step Into로는 들어가지 못하는 메서드 내부까지 강제로 들어�
 
 ![image](https://user-images.githubusercontent.com/92259017/149451880-a3abf921-556a-4e3e-8e48-62d3fc07b6f0.png)
 ![image](https://user-images.githubusercontent.com/92259017/149451693-89e17dc2-cf95-42ce-8860-8989a1f5a9c0.png)
+
+## 참고자료
+- [디버깅 용어 질문](https://okky.kr/article/605812)
