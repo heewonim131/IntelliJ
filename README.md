@@ -4,7 +4,7 @@
 
 2. [단축키](https://github.com/heewonim131/intellij-guide/tree/main/ch02#-intellij-단축키-모음)
 
-3. [To do 리스트 구현하기](https://github.com/heewonim131/intellij-guide/tree/main/ch03#-to-do-list-구현하기)
+3. To do 리스트 구현하기
     - [요구사항 정리](https://github.com/heewonim131/intellij-guide/blob/main/ch03/%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD%20%EC%A0%95%EB%A6%AC.md#%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD-%EC%A0%95%EB%A6%AC)
     - [환경설정 및 프로젝트 세팅](https://github.com/heewonim131/intellij-guide/blob/main/ch03/%ED%99%98%EA%B2%BD%EC%84%A4%EC%A0%95%20%EB%B0%8F%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%84%B8%ED%8C%85.md#%ED%99%98%EA%B2%BD%EC%84%A4%EC%A0%95-%EB%B0%8F-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%84%B8%ED%8C%85)
     - [모델 구현](https://github.com/heewonim131/intellij-guide/blob/main/ch03/%EB%AA%A8%EB%8D%B8%20%EA%B5%AC%ED%98%84.md#%EB%AA%A8%EB%8D%B8-%EA%B5%AC%ED%98%84)
